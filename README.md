@@ -1,16 +1,39 @@
-### Hi there 👋
-- Code ở đây toàn 🐞 thôi :(
-<!--
-**Hungs20/hungs20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Hungs20 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, JavaScript, C++, Swift, Dart
+- **Frameworks & Libraries:** Flutter, Node.js, Express
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools & Platforms:** Git, Docker, AWS, GitHub Actions
+
+---
+
+## 📈 GitHub Stats
+
+![Hungs20's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hungs20&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hungs20&layout=compact&theme=radical)
+
+
+---
+
+## 📫 How to Reach Me
+
+- **Email:** [hungs20.uet@gmail.com](mailto:hungs20.uet@gmail.com)
+- **LinkedIn:** [Hưng Chu](https://www.linkedin.com/in/hungs20/)
+- **Facebook:** [Chu Văn Hưng](https://facebook.com/it.hungcv)
+
+---
+
+## 🌱 About Me
+
+I'm always eager to learn new technologies and improve my skills. When I'm not coding, you can find me exploring new tech trends, reading books, or playing video games.
+
+---
+
+Thank you for visiting my profile! Have a great day! 😊
